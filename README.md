@@ -1,4 +1,4 @@
-### Car Price Prediction
+# Car Price Prediction
 
 ## Project Overview
 This project aims to predict the selling price of used cars based on various features such as fuel type, seller type, transmission type, and more. Using a Linear Regression model, the project helps in estimating the market value of cars, assisting both sellers and buyers in making informed decisions.
